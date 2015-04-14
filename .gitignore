@@ -43,4 +43,5 @@ Temporary Items
 .apdisk
 
 # Krita temp files
-.kra~
+*.kra~
+*.png~
