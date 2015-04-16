@@ -5,7 +5,7 @@
 
 #### You are free:                                                
 
-* to Share — to copy, distribute and transmit the work for private use only or by redirecting to https://github.com/manorton/N00bTaco-Real-x128
+* to Share — to copy, distribute and transmit the work for private use only or by redirecting to http://manorton.github.io/N00bTaco-Real-x128
 
 #### Under the following conditions:                              
 
