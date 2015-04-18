@@ -1,7 +1,7 @@
 N00bTaco Real x128 Changelog
 ======
 
-Next release
+V0.0.2-alpha
 ------
 	- Leaves
 	- Clay
