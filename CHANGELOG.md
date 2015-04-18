@@ -1,6 +1,7 @@
 N00bTaco Real x128 Changelog
 ======
 
+<<<<<<< HEAD
 Next Release
 ------
 
@@ -8,6 +9,8 @@ Next Release
 	- Nether Textures
 	- Glowstone
 	
+=======
+>>>>>>> origin/master
 V0.0.2-alpha
 ------
 	- Leaves
