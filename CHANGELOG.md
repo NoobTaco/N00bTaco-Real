@@ -1,7 +1,14 @@
 N00bTaco Real x128 Changelog
 ======
 
-Next release
+Next Release
+------
+
+	- Ore Blocks
+	- Nether Textures
+	- Glowstone
+	
+V0.0.2-alpha
 ------
 	- Leaves
 	- Clay
@@ -12,7 +19,7 @@ Next release
 	- Soils
 	- Lava
 	- Ore
-	
+		
 V0.0.1-alpha
 ------
 	- Cobblestone
