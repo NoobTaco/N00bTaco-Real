@@ -9,6 +9,9 @@ Next release
 	- Glass textures
 	- Sand
 	- Wool
+	- Soils
+	- Lava
+	- Ore
 	
 V0.0.1-alpha
 ------
