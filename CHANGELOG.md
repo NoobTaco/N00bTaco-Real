@@ -1,16 +1,28 @@
 N00bTaco Real x128 Changelog
 ======
 
-<<<<<<< HEAD
 Next Release
 ------
 
 	- Ore Blocks
 	- Nether Textures
 	- Glowstone
+	- Snow
+	- Sea lamp
+	- Prismarnie
+	- Red Brick
+	- Endstone
+	- Hay
+	- TNT
+	- Slime block
+	- Bookshelf
+	- Beacon
+	- Pumpkin
+	- Watermelon
+	- Farmland
+	- Doors
 	
-=======
->>>>>>> origin/master
+
 V0.0.2-alpha
 ------
 	- Leaves
