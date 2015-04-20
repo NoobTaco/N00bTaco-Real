@@ -21,6 +21,10 @@ Next Release
 	- Watermelon
 	- Farmland
 	- Doors
+	- Reeds (3d)
+	- Grass
+	- Fern
+	- Plants (First pass. Not happy with them yet)
 	
 
 V0.0.2-alpha
