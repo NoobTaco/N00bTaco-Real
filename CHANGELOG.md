@@ -22,9 +22,7 @@ Next Release
 	- Farmland
 	- Doors
 	- Reeds (3d)
-	- Grass
-	- Fern
-	- Plants (First pass. Not happy with them yet)
+	- Damage Effect
 	
 
 V0.0.2-alpha
