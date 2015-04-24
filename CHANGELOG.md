@@ -1,5 +1,8 @@
 N00bTaco Real x128 Changelog
 ======
+V1.0.1
+------
+	- Added Trapped Chests
 
 V1.0.0
 ------
