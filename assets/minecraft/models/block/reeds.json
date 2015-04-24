@@ -1,6 +1,8 @@
 {
 "__comment": "Designed by Manorton with BDcraft Cubik PRO 0.93 Beta - http://bdcraft.net",
 "textures": {
+    "particle": "blocks/reeds",
+    "texture": "blocks/reeds",
     "reeds": "blocks/reeds"
 },
 "elements": [ 

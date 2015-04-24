@@ -1,7 +1,7 @@
 N00bTaco Real x128 Changelog
 ======
 
-Next Release
+V1.0.0
 ------
 
 	- Ore Blocks
@@ -23,6 +23,12 @@ Next Release
 	- Doors
 	- Reeds (3d)
 	- Damage Effect
+	- Crafting Bench
+	- UI Elements
+	- Furnace 
+	- Chests
+	- Torch
+	- Cactus (Just upscaled to 128)
 	
 
 V0.0.2-alpha
