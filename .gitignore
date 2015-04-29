@@ -48,3 +48,4 @@ Temporary Items
 
 # Adding Blender Bake files. Don't want to clog up the repository with those!
 *.bphys
+*.blend1
