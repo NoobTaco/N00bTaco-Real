@@ -1,5 +1,16 @@
 N00bTaco Real x128 Changelog
 ======
+
+NextVersion
+------
+    New
+    - Ladder (3D)
+    
+    Bugs Fixed
+    - Netherrack has new texture
+    - Quartz to match Netherrack base
+    - Texture on the furnace has been updated so it does not blend into a cobblestone wall.
+
 V1.0.1
 ------
 	- Added Trapped Chests
