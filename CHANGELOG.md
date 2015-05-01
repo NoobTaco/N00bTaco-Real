@@ -10,10 +10,9 @@ NextVersion
     - Netherrack has new texture
     - Quartz to match Netherrack base
     - Texture on the furnace has been updated so it does not blend into a cobblestone wall.
+	- Iron Ingot
+	- Gold Ingot
 	
-	In the works
-	- Fire (Blender)
-
 V1.0.1
 ------
 	- Added Trapped Chests
