@@ -5,6 +5,13 @@ NextVersion
 ------
     New
     - Ladder (3D)
+	- Iron Bars
+	- Trap Doors (Wood and Iron)
+	- Tripwire
+	- Redstone
+		- Repeator
+		- Comparator
+		- Redstone dust line
     
     Bugs Fixed
     - Netherrack has new texture
