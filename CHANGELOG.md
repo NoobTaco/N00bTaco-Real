@@ -1,19 +1,42 @@
 N00bTaco Real x128 Changelog
 ======
 
-NextVersion
+V 1.1.0
 ------
     New
     - Ladder (3D)
+	- Iron Bars
+	- Trap Doors (Wood and Iron)
+	- Tripwire
+	- Redstone
+		- Repeator
+		- Comparator
+		- Redstone dust line
+	- Piston and Sticky Piston
+	- Mob Spawner
+	- Lever
+	- Brewing Stand
+	- Command Block
+	- Daylight Sen
+	- Dispenser
+	- Dropper
+	- Enchanting Table
+	- Item Frame
+	- Hopper 
+	- Anvil
+	- Redstone Lamp
+	- Sign
+	- Mine Cart
+	- Rails
     
     Bugs Fixed
     - Netherrack has new texture
     - Quartz to match Netherrack base
     - Texture on the furnace has been updated so it does not blend into a cobblestone wall.
+	- Iron Ingot
+	- Gold Ingot
+	- Glowstone
 	
-	In the works
-	- Fire (Blender)
-
 V1.0.1
 ------
 	- Added Trapped Chests
