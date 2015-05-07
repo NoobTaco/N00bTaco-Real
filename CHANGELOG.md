@@ -1,6 +1,15 @@
 N00bTaco Real x128 Changelog
 ======
 
+V1.1.1
+------
+	- Particles
+	- Torch
+	- Boat
+	- Experience Balls
+	- Moon
+	- Sun
+
 V 1.1.0
 ------
     New
