@@ -1,5 +1,10 @@
-N00bTaco Real x128 Changelog
+N00bTaco Real x64 Changelog
 ======
+
+V1.1.2
+------
+	- Moved to VSO for Git storage.
+	- Added x64 to branch
 
 V1.1.1
 ------
