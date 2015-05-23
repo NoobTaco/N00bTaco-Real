@@ -1,5 +1,5 @@
-# N00bTaco Real x128
-Minecraft Resouce Pack - Real x128
+# N00bTaco Real x32
+Minecraft Resouce Pack - Real x32
 
 For Minecraft Version 1.8+
 
